@@ -1,12 +1,42 @@
-# Андрей — Python-разработчик
+# Андрей Курноскин
 
-Разрабатываю backend-сервисы и приложения с компьютерным зрением. Учусь в МАИ. Интересуюсь AI-агентами и прикладным машинным обучением.
+**AI Engineer / Full-stack Developer**  
+LLM-агенты · RAG · Applied AI · Python backend
 
-### Мои проекты
+Проектирую и довожу AI-системы до рабочего продукта: от архитектуры и данных до интеграции моделей, тестирования и эксплуатации. Мой фокус — агентные системы с проверяемым результатом, надёжный backend и практическое применение AI в бизнес-процессах.
 
-- [SafetyScooter](https://github.com/andreysk0304/safety_scooter) — API для приёма и обработки видеозаявок на FastAPI, PostgreSQL и S3.
-- [SafetyScooter AI](https://github.com/andreysk0304/safety_scooter_ai) — сервис анализа видео с YOLO, PyTorch и OpenCV.
+## Опыт и результаты
 
-### Технологии
+**Лаборатория МАИ «Лямбда» · AI Engineer, руководитель исследовательской команды**  
+*Сентябрь 2025 — настоящее время*
 
-`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker` · `PyTorch` · `OpenCV`
+Руковожу командой из 5 человек и разработкой AI Research Agent. Проектирую агентные workflow, работу с инструментами, памятью и проверкой результатов. Один из исследовательских сценариев позволил масштабировать сбор данных до **150 товаров/с** при сокращении необходимого прокси-пула примерно **в 100 раз**; решение работало в production два месяца.
+
+**ООО «Информатик» · AI Engineer / Full-stack Developer**  
+*Июль — август 2026*
+
+Разработал MCP-сервис для агентного поиска по технической документации: загрузка и индексация источников, RAG по связанным страницам, семантический поиск на PostgreSQL/pgvector, поддержка версий и динамических сайтов. Подготовил Docker Compose-развёртывание, мониторинг и тесты.
+
+**«Кнопка Заказы» · Backend / Python Developer**  
+*Декабрь 2024 — май 2026*
+
+Как единственный разработчик запустил и сопровождал production SaaS для аналитики Wildberries и Ozon: API, боты Telegram/MAX/VK, платежи, фоновые задачи, отчёты и мониторинг.
+
+## Избранные проекты
+
+- **[Project QA / SDM Hack](https://github.com/Monyzik/sdm-hack)** — AI-помощник по знаниям проекта с гибридным RAG, инструментами агента, источниками ответа и проверкой тезисов. **3-е место** на хакатоне СДМ Банка.
+- **MathMod DataAgent** — агент для экономической аналитики: поиск датасетов, проверка гипотез через SQL и ответы с источниками. **2-е место** на хакатоне МАИ и Финансового университета.
+- **SafetyScooter** — система анализа видеозаявок: [backend на FastAPI](https://github.com/andreysk0304/safety_scooter) и [CV-сервис на YOLO](https://github.com/andreysk0304/safety_scooter_ai).
+
+## Технологии
+
+**AI:** LLM agents, LangGraph, MCP, RAG, embeddings, pgvector  
+**Backend и данные:** Python, FastAPI, PostgreSQL, Celery, Redis, ClickHouse  
+**Computer vision:** PyTorch, YOLO, OpenCV  
+**Инфраструктура:** Docker, Docker Compose, Grafana, pytest
+
+## Контакты
+
+[Email](mailto:andreysk0304@yandex.ru) · [Telegram](https://t.me/andreysk0303) · [GitHub](https://github.com/andreysk0304)
+
+Студент МАИ, «Прикладная математика и информатика», программа «ТОП ИТ». Русский — родной, английский — B1.
